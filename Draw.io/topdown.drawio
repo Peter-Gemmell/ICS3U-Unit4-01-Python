@@ -67,16 +67,16 @@
                 <mxCell id="9" value="Get integer_input" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="150" y="280" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="11" value="Show total" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                <mxCell id="11" value="&lt;span&gt;The sum from 1 and integer_input is total&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="530" y="280" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="13" value="HST = sub_total * 1.13" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                <mxCell id="13" value="&lt;span&gt;total = total + loop_counter&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="340" y="410" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="15" value="Sub_total = .75 + 1.00 + (0.5 * diameter)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                <mxCell id="15" value="&lt;span&gt;while loop_counter&lt;/span&gt;&lt;br&gt;&lt;span&gt;&amp;lt; inter_input&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="150" y="410" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="16" value="total = sub_total + HST" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                <mxCell id="16" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;loop_counter = loop_counter + 1&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="530" y="410" width="120" height="60" as="geometry"/>
                 </mxCell>
             </root>
