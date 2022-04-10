@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="JqOo338mFjRoOCTTENWM" name="Page-1">
-        <mxGraphModel dx="1074" dy="787" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="1074" dy="755" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -92,6 +92,15 @@
                 </mxCell>
                 <mxCell id="61" value="stop" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="290" y="820" width="100" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="67" value="yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="191" y="600" width="30" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="68" value="no" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="245" y="520" width="30" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="69" value="exception" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="225" y="310" width="70" height="20" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
